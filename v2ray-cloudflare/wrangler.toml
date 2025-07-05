@@ -1,0 +1,6 @@
+name = "v2ray-cloudflare"
+type = "javascript"
+account_id = "your_account_id"
+workers_dev = true
+route = ""
+zone_id = ""
